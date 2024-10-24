@@ -27,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
