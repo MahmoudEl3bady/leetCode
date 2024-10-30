@@ -7,6 +7,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +85,12 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
