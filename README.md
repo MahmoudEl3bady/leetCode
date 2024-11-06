@@ -31,6 +31,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
 | ------- |
