@@ -34,6 +34,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
 | ------- |
