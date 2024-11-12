@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
