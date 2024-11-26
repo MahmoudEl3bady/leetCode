@@ -120,4 +120,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
