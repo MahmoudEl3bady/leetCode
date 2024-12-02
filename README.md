@@ -20,6 +20,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahmoudEl3bady/leetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3451-string-compression-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/3451-string-compression-iii) |
@@ -48,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahmoudEl3bady/leetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahmoudEl3bady/leetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Tree
 |  |
 | ------- |
