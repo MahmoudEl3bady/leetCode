@@ -12,6 +12,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -37,6 +38,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -62,6 +64,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
@@ -150,4 +154,8 @@
 | ------- |
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
