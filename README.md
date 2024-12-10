@@ -103,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -143,6 +145,7 @@
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -151,6 +154,7 @@
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
