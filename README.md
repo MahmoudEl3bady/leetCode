@@ -35,6 +35,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
