@@ -137,6 +137,7 @@
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/MahmoudEl3bady/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -155,6 +156,7 @@
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/MahmoudEl3bady/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/MahmoudEl3bady/leetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
