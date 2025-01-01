@@ -22,6 +22,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahmoudEl3bady/leetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
