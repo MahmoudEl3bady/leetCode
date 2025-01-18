@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
+| [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -45,6 +47,7 @@
 | [0039-combination-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
