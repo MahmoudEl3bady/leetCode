@@ -239,4 +239,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MahmoudEl3bady/leetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/MahmoudEl3bady/leetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
