@@ -64,6 +64,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3429-special-array-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
