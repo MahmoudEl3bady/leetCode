@@ -34,6 +34,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MahmoudEl3bady/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MahmoudEl3bady/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MahmoudEl3bady/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -108,11 +109,13 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
