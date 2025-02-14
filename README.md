@@ -252,6 +252,7 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MahmoudEl3bady/leetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0596-classes-more-than-5-students](https://github.com/MahmoudEl3bady/leetCode/tree/master/0596-classes-more-than-5-students) |
 | [1161-project-employees-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/MahmoudEl3bady/leetCode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/1292-immediate-food-delivery-ii) |
