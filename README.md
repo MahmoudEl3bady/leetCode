@@ -263,6 +263,7 @@
 | [1390-average-selling-price](https://github.com/MahmoudEl3bady/leetCode/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MahmoudEl3bady/leetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MahmoudEl3bady/leetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/MahmoudEl3bady/leetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/MahmoudEl3bady/leetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MahmoudEl3bady/leetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
