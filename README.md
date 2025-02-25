@@ -253,6 +253,7 @@
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MahmoudEl3bady/leetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/MahmoudEl3bady/leetCode/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/MahmoudEl3bady/leetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/MahmoudEl3bady/leetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1161-project-employees-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/1161-project-employees-i) |
