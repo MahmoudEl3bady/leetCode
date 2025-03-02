@@ -16,6 +16,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MahmoudEl3bady/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -67,6 +68,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MahmoudEl3bady/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MahmoudEl3bady/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -85,6 +87,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MahmoudEl3bady/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Enumeration
 |  |
 | ------- |
