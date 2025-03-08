@@ -37,6 +37,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MahmoudEl3bady/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MahmoudEl3bady/leetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MahmoudEl3bady/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/3451-string-compression-iii) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MahmoudEl3bady/leetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
