@@ -274,6 +274,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/MahmoudEl3bady/leetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/MahmoudEl3bady/leetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/MahmoudEl3bady/leetCode/tree/master/1390-average-selling-price) |
+| [1625-group-sold-products-by-the-date](https://github.com/MahmoudEl3bady/leetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/MahmoudEl3bady/leetCode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MahmoudEl3bady/leetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MahmoudEl3bady/leetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
