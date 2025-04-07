@@ -54,6 +54,7 @@
 | [0039-combination-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/MahmoudEl3bady/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/1524-string-matching-in-an-array) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/MahmoudEl3bady/leetCode/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MahmoudEl3bady/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MahmoudEl3bady/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2358-number-of-ways-to-split-array) |
