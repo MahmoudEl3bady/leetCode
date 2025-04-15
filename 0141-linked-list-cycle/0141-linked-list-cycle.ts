@@ -11,16 +11,15 @@
  */
 
 function hasCycle(head: ListNode | null): boolean {
-    if (!head) return false;
-    let visited = new Map();
-    let tmp = head;
-    while (tmp) {
-        console.log(tmp.val)
-        if (visited.get(tmp) === true) {
+    let slow = head;
+    let fast = head;
+    while (fast != null && fast.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
+        if (slow == fast) {
             return true;
         }
-        visited.set(tmp,true);
-        tmp = tmp.next;
     }
+
     return false;
 };
