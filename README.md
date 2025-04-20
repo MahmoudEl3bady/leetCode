@@ -118,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -145,6 +146,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0206-reverse-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
