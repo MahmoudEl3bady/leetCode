@@ -62,6 +62,7 @@
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0525-contiguous-array) |
+| [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/1524-string-matching-in-an-array) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
 |  |
