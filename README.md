@@ -216,6 +216,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
+| [0386-lexicographical-numbers](https://github.com/MahmoudEl3bady/leetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MahmoudEl3bady/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/MahmoudEl3bady/leetCode/tree/master/0904-leaf-similar-trees) |
@@ -272,6 +273,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/MahmoudEl3bady/leetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
