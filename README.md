@@ -17,6 +17,7 @@
 | [1500-count-largest-group](https://github.com/MahmoudEl3bady/leetCode/tree/master/1500-count-largest-group) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MahmoudEl3bady/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -77,6 +78,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MahmoudEl3bady/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MahmoudEl3bady/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -193,6 +195,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/MahmoudEl3bady/leetCode/tree/master/0303-range-sum-query-immutable) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
