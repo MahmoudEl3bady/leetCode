@@ -72,6 +72,7 @@
 | [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MahmoudEl3bady/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MahmoudEl3bady/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/MahmoudEl3bady/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MahmoudEl3bady/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MahmoudEl3bady/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -262,6 +264,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/MahmoudEl3bady/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MahmoudEl3bady/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Monotonic Stack
 |  |
@@ -341,4 +344,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MahmoudEl3bady/leetCode/tree/master/0133-clone-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MahmoudEl3bady/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
