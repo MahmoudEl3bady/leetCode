@@ -174,6 +174,7 @@
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MahmoudEl3bady/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0202-happy-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MahmoudEl3bady/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/MahmoudEl3bady/leetCode/tree/master/1500-count-largest-group) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
