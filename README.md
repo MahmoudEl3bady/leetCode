@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
@@ -61,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MahmoudEl3bady/leetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0039-combination-sum) |
@@ -311,6 +313,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/MahmoudEl3bady/leetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MahmoudEl3bady/leetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
