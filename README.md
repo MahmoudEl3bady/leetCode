@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MahmoudEl3bady/leetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
@@ -70,6 +71,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahmoudEl3bady/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MahmoudEl3bady/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/MahmoudEl3bady/leetCode/tree/master/0435-non-overlapping-intervals) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/MahmoudEl3bady/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MahmoudEl3bady/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -304,6 +307,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/MahmoudEl3bady/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0525-contiguous-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
