@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/MahmoudEl3bady/leetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
@@ -68,6 +69,7 @@
 | [0014-longest-common-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MahmoudEl3bady/leetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -152,6 +154,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 ## Recursion
 |  |
