@@ -35,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/MahmoudEl3bady/leetCode/tree/master/0071-simplify-path) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -172,6 +173,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/MahmoudEl3bady/leetCode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
