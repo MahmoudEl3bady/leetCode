@@ -72,6 +72,7 @@
 | [0027-remove-element](https://github.com/MahmoudEl3bady/leetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 ## Recursion
 |  |
@@ -166,6 +168,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2551-apply-operations-to-an-array) |
