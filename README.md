@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahmoudEl3bady/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/MahmoudEl3bady/leetCode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/MahmoudEl3bady/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0202-happy-number) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/MahmoudEl3bady/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MahmoudEl3bady/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/MahmoudEl3bady/leetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MahmoudEl3bady/leetCode/tree/master/0206-reverse-linked-list) |
