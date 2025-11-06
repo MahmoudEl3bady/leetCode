@@ -149,6 +149,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/MahmoudEl3bady/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MahmoudEl3bady/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -208,6 +209,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/MahmoudEl3bady/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MahmoudEl3bady/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -287,6 +290,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/MahmoudEl3bady/leetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MahmoudEl3bady/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
