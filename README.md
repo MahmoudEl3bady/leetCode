@@ -175,6 +175,7 @@
 | [0054-spiral-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -330,6 +331,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/MahmoudEl3bady/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MahmoudEl3bady/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/MahmoudEl3bady/leetCode/tree/master/1500-count-largest-group) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
 |  |
