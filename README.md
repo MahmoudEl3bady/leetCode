@@ -101,6 +101,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MahmoudEl3bady/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MahmoudEl3bady/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahmoudEl3bady/leetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -176,6 +177,7 @@
 | [0054-spiral-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MahmoudEl3bady/leetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -414,4 +416,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
