@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0525-contiguous-array) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
+| [0840-magic-squares-in-grid](https://github.com/MahmoudEl3bady/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1500-count-largest-group](https://github.com/MahmoudEl3bady/leetCode/tree/master/1500-count-largest-group) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MahmoudEl3bady/leetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -90,6 +91,7 @@
 | [0525-contiguous-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
+| [0840-magic-squares-in-grid](https://github.com/MahmoudEl3bady/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/MahmoudEl3bady/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MahmoudEl3bady/leetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -166,6 +168,7 @@
 | [0036-valid-sudoku](https://github.com/MahmoudEl3bady/leetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/MahmoudEl3bady/leetCode/tree/master/0840-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -334,6 +337,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0202-happy-number) |
+| [0840-magic-squares-in-grid](https://github.com/MahmoudEl3bady/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/MahmoudEl3bady/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MahmoudEl3bady/leetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/MahmoudEl3bady/leetCode/tree/master/1500-count-largest-group) |
