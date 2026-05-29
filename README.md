@@ -120,6 +120,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MahmoudEl3bady/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MahmoudEl3bady/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MahmoudEl3bady/leetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/3429-special-array-i) |
@@ -343,6 +344,7 @@
 | [1500-count-largest-group](https://github.com/MahmoudEl3bady/leetCode/tree/master/1500-count-largest-group) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MahmoudEl3bady/leetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
