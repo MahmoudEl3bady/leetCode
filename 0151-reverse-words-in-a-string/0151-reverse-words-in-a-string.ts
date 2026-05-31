@@ -1,6 +1,5 @@
 function reverseWords(s: string): string {
-  const words = s.trim().split(' ');
-    let l ;
-    l = words.filter(Boolean);
-    return l.reverse().join(' ');
-};
+  let words = s.split(' ');
+  words = words.filter(w=>w);
+   return words.reverse().join(' ').trim();
+}
