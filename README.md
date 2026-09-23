@@ -79,6 +79,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MahmoudEl3bady/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahmoudEl3bady/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0219-contains-duplicate-ii) |
@@ -275,6 +276,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -300,6 +302,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MahmoudEl3bady/leetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -335,6 +338,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MahmoudEl3bady/leetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Math
 |  |
@@ -431,4 +435,8 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/MahmoudEl3bady/leetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MahmoudEl3bady/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
