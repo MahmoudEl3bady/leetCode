@@ -343,6 +343,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/MahmoudEl3bady/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/MahmoudEl3bady/leetCode/tree/master/0202-happy-number) |
 | [0840-magic-squares-in-grid](https://github.com/MahmoudEl3bady/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/MahmoudEl3bady/leetCode/tree/master/1018-largest-perimeter-triangle) |
