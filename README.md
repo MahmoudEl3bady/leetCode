@@ -94,6 +94,7 @@
 | [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/MahmoudEl3bady/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/MahmoudEl3bady/leetCode/tree/master/0840-magic-squares-in-grid) |
+| [0853-car-fleet](https://github.com/MahmoudEl3bady/leetCode/tree/master/0853-car-fleet) |
 | [0952-word-subsets](https://github.com/MahmoudEl3bady/leetCode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/MahmoudEl3bady/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MahmoudEl3bady/leetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -196,6 +197,7 @@
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/MahmoudEl3bady/leetCode/tree/master/0853-car-fleet) |
 | [1197-parsing-a-boolean-expression](https://github.com/MahmoudEl3bady/leetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MahmoudEl3bady/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MahmoudEl3bady/leetCode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/MahmoudEl3bady/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [0853-car-fleet](https://github.com/MahmoudEl3bady/leetCode/tree/master/0853-car-fleet) |
 | [1018-largest-perimeter-triangle](https://github.com/MahmoudEl3bady/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MahmoudEl3bady/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MahmoudEl3bady/leetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -334,6 +337,7 @@
 | [0496-next-greater-element-i](https://github.com/MahmoudEl3bady/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MahmoudEl3bady/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MahmoudEl3bady/leetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/MahmoudEl3bady/leetCode/tree/master/0853-car-fleet) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MahmoudEl3bady/leetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
 |  |
